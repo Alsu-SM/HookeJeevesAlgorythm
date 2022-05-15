@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\alsu1\source\repos\MO\MO\Source.cpp(10,46): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\alsu1\source\repos\MO\MO\Source.cpp(15,48): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\alsu1\source\repos\MO\MO\Source.cpp(136,35): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\alsu1\source\repos\MO\MO\Source.cpp(140,35): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\alsu1\source\repos\MO\MO\Source.cpp(146,25): warning C4305: =: усечение из "double" в "float"
+C:\Users\alsu1\source\repos\MO\MO\Source.cpp(30): warning C4715: manage_function: значение возвращается не при всех путях выполнения
+  MO.vcxproj -> C:\Users\alsu1\source\repos\MO\x64\Debug\MO.exe
